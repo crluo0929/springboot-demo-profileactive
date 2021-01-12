@@ -1,0 +1,14 @@
+fakebook:
+  booklist:
+    - id: 1
+      title: 深入淺出設計模式
+      isbn: ISBN-1-1
+      author: 伊麗莎白
+      lang: 中文
+      publish: 2004-10-01
+    - id: 2
+      title: 深入淺出JavaScript編程
+      isbn: ISBN-1-2
+      author: 伊麗莎白
+      lang: 中文
+      publish: 2004-03-20
